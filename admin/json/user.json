@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "珠峰培训",
+        "password": "ceb1d964351ed40b138c3fae",
+        "sex": "1",
+        "email": "zhufeng@qq.com",
+        "phone": "11111111111",
+        "departmentId": "1",
+        "jobId": "1",
+        "desc": "嗨喽~~",
+        "time": 1568966285536,
+        "state": 0
+    },
+    {
+        "id": 3,
+        "name": "程亚光",
+        "password": "ceb1d964351ed40b138c3fae",
+        "sex": "0",
+        "email": "chengyaguang@126.com",
+        "phone": "12356985478",
+        "departmentId": "2",
+        "jobId": "3",
+        "desc": "我是程亚光，来自于星星的你",
+        "time": 1568955194924,
+        "state": 0
+    },
+    {
+        "id": 6,
+        "name": "王金光",
+        "password": "ceb1d964351ed40b138c3fae",
+        "sex": "0",
+        "email": "wangjinguang@126.com",
+        "phone": "12356985478",
+        "departmentId": "2",
+        "jobId": "3",
+        "desc": "我是程亚光，来自于星星的你",
+        "time": 1568955194924,
+        "state": 0
+    },
+    {
+        "id": 1,
+        "name": "园园",
+        "password": "ceb1d964351ed40b138c3fae",
+        "sex": "1",
+        "email": "yuanyuan@qq.com",
+        "phone": "11111111111",
+        "departmentId": "1",
+        "jobId": "1",
+        "desc": "嗨喽~~",
+        "time": 1568955194924,
+        "state": 0
+    },
+    {
+        "id": 2,
+        "name": "王东煜",
+        "password": "ceb1d964351ed40b138c3fae",
+        "sex": "0",
+        "email": "11484844@qq.com",
+        "phone": "1563254252",
+        "departmentId": "1",
+        "jobId": "1",
+        "desc": "好好好学习",
+        "time": 1572941194818,
+        "state": 0
+    }
+]
